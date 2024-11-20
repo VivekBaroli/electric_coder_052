@@ -1,6 +1,6 @@
 Flipkart Product Analysis
 
-[View Deployed Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVmMjcwYzEtZGQ3Yi00NjYxLWJiYzctNWYxZGNmZTk4ODRlIiwidCI6ImM0ODg3MzRiLTljMDAtNDBjZC04YjMyLWE3NGQyZTE5OGI5NiJ9)
+[View Deployed Dashboard]([https://app.powerbi.com/view?r=eyJrIjoiOWVmMjcwYzEtZGQ3Yi00NjYxLWJiYzctNWYxZGNmZTk4ODRlIiwidCI6ImM0ODg3MzRiLTljMDAtNDBjZC04YjMyLWE3NGQyZTE5OGI5NiJ9](https://app.powerbi.com/view?r=eyJrIjoiODI1M2E0YjQtODIzYi00MzcyLTkzMTAtNjkwZDg2MmVmZTZlIiwidCI6ImM0ODg3MzRiLTljMDAtNDBjZC04YjMyLWE3NGQyZTE5OGI5NiJ9))
 
 - [Overview](#overview)
 - [Project Workflow](#project-workflow)
