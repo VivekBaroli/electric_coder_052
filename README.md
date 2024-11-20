@@ -1,6 +1,6 @@
-# Flipkart Product Analysis
+Flipkart Product Analysis
 
-## Table of Contents
+[View Deployed Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWVmMjcwYzEtZGQ3Yi00NjYxLWJiYzctNWYxZGNmZTk4ODRlIiwidCI6ImM0ODg3MzRiLTljMDAtNDBjZC04YjMyLWE3NGQyZTE5OGI5NiJ9)
 
 - [Overview](#overview)
 - [Project Workflow](#project-workflow)
